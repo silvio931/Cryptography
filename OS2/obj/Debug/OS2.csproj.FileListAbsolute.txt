@@ -1,0 +1,40 @@
+C:\Users\User\Desktop\OS2\OS2\obj\Debug\OS2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OS2\OS2\obj\Debug\OS2.Properties.Resources.resources
+C:\Users\User\Desktop\OS2\OS2\obj\Debug\OS2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OS2\OS2\obj\Debug\OS2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OS2\OS2\bin\Debug\OS2.exe.config
+C:\Users\User\Desktop\OS2\OS2\bin\Debug\OS2.exe
+C:\Users\User\Desktop\OS2\OS2\bin\Debug\OS2.pdb
+C:\Users\User\Desktop\OS2\OS2\obj\Debug\OS2.exe
+C:\Users\User\Desktop\OS2\OS2\obj\Debug\OS2.pdb
+C:\Users\User\Desktop\OS2\OS2\obj\Debug\OS2.Form1.resources
+C:\Users\User\Desktop\OS2 – kopija\OS2\bin\Debug\OS2.exe.config
+C:\Users\User\Desktop\OS2 – kopija\OS2\bin\Debug\OS2.exe
+C:\Users\User\Desktop\OS2 – kopija\OS2\bin\Debug\OS2.pdb
+C:\Users\User\Desktop\OS2 – kopija\OS2\obj\Debug\OS2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OS2 – kopija\OS2\obj\Debug\OS2.Form1.resources
+C:\Users\User\Desktop\OS2 – kopija\OS2\obj\Debug\OS2.Properties.Resources.resources
+C:\Users\User\Desktop\OS2 – kopija\OS2\obj\Debug\OS2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OS2 – kopija\OS2\obj\Debug\OS2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OS2 – kopija\OS2\obj\Debug\OS2.exe
+C:\Users\User\Desktop\OS2 – kopija\OS2\obj\Debug\OS2.pdb
+C:\Users\User\Desktop\OS2 zadnje s prikazom\OS2\bin\Debug\OS2.exe.config
+C:\Users\User\Desktop\OS2 zadnje s prikazom\OS2\bin\Debug\OS2.exe
+C:\Users\User\Desktop\OS2 zadnje s prikazom\OS2\bin\Debug\OS2.pdb
+C:\Users\User\Desktop\OS2 zadnje s prikazom\OS2\obj\Debug\OS2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OS2 zadnje s prikazom\OS2\obj\Debug\OS2.Form1.resources
+C:\Users\User\Desktop\OS2 zadnje s prikazom\OS2\obj\Debug\OS2.Properties.Resources.resources
+C:\Users\User\Desktop\OS2 zadnje s prikazom\OS2\obj\Debug\OS2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OS2 zadnje s prikazom\OS2\obj\Debug\OS2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OS2 zadnje s prikazom\OS2\obj\Debug\OS2.exe
+C:\Users\User\Desktop\OS2 zadnje s prikazom\OS2\obj\Debug\OS2.pdb
+C:\Users\User\Desktop\OS2 projekt\OS2\obj\Debug\OS2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OS2 projekt\OS2\obj\Debug\OS2.Form1.resources
+C:\Users\User\Desktop\OS2 projekt\OS2\obj\Debug\OS2.Properties.Resources.resources
+C:\Users\User\Desktop\OS2 projekt\OS2\obj\Debug\OS2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OS2 projekt\OS2\obj\Debug\OS2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OS2 projekt\OS2\obj\Debug\OS2.exe
+C:\Users\User\Desktop\OS2 projekt\OS2\obj\Debug\OS2.pdb
+C:\Users\User\Desktop\OS2 projekt\OS2\bin\Debug\OS2.exe.config
+C:\Users\User\Desktop\OS2 projekt\OS2\bin\Debug\OS2.exe
+C:\Users\User\Desktop\OS2 projekt\OS2\bin\Debug\OS2.pdb
